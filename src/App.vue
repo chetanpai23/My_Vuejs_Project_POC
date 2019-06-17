@@ -23,14 +23,6 @@
                 <button class="btn btn-outline-secondary" type="button" style="color:white"><i class="fa fa-search"></i></button>
               </div>
             </div>
-             <!-- <div class="row" style="margin-left:100px;margin-top:80px">
-               
-               <ul style="color:white">
-                 <li><h6>Server</h6></li>
-                 <li><h6>Helps</h6></li>
-                 <li><h6>Action</h6></li>
-               </ul>
-             </div> -->
           </div>
           
             
